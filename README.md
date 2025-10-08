@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Header image aesthetic -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ED2C6,100:FFE1E1&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff" />
+</p>
 
-<!--
-**fixedc0de/fixedc0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  👋 Halo! Terima kasih sudah mampir ke profil saya.  
+  Silakan jelajahi repositori yang ada di bawah.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Catatan:**
+> Di sini saya menyimpan berbagai macam tugas kuliah dan eksperimen pribadi.  
+> Beberapa masih dalam tahap pembelajaran, jadi mohon dimaklumi ya :)
+
+---
+
+
+<p align="center">
+  Terima kasih sudah berkunjung 😊
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE1E1,100:9ED2C6&height=100&section=footer"/>
+</p>
